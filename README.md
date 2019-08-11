@@ -5,9 +5,12 @@ The purpose of this application is to demonstrate the use of API and for that ca
 
 We've basically used the 'Async' which returns a promise and 'Await' which holds the reponse for the promise until the request is completely resolved along with 'fetch()' which helps in making the requests to an endpoint.
 
-So, for the endpoint part, we've used the free API of AccuWeather (https://developer.accuweather.com) which helps us to find the location and the weather details of that location.
-As we all know that with a free API having a Key to it, there comes certain limitations. 
+So, for the endpoint part, we've used the free API of [AccuWeather](https://developer.accuweather.com) which helps us to find the location and the weather details of that location.
+
+As we all know that with a free API having a Key to it, there comes certain limitations.
+
 In our case, with the free API, we can only make 15 requests per day with a particular API. 
+
 So just know when you're not able to fetch any data, just delete the previous API and generate a new one and paste the key for the API into the forecast.js file.
 
 It's that simple.
