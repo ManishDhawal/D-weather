@@ -3,7 +3,8 @@ This application demonstrates the use of an API and making the use of the API to
 
 The purpose of this application is to demonstrate the use of API and for that cause, this application is completely based on Javascript and asynchronous javascript in particular.
 
-We've basically used the <code>Async</code> which returns a promise and <code>Await</code> which holds the reponse for the promise until the request is completely resolved along with <code>fetch()</code> which helps in making the requests to an endpoint.
+We've basically used the <code>Async</code> which returns a promise and <code>Await</code> which holds the reponse for the promise until the request is completely resolved along with <code>fetch()</code> which helps in making the requests to an endpoint. 
+To know more, you can follow [javascript.info article](https://javascript.info/async-await) for their advanced use.
 
 So, for the endpoint part, we've used the free API of [AccuWeather](https://developer.accuweather.com) which helps us to find the location and the weather details of that location.
 
